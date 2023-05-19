@@ -37,7 +37,7 @@
 <h3 align="center"> Connect with Me 🤝🏻</h3>
 <p align="center">
 <a href="https://pearlybruno.com" target="_blank"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
-<a href="https://buymeacoffee.com/?via=vagabondachii" target="_blank"><img src="" alt="Buy Me Gin!" height="30"></a>
+<a href="https://buymeacoffee.com/?via=vagabondachii" target="_blank"><img src="?logo=-buy me a beer!-red" alt="Buy Me Gin!" height="30"></a>
 </p>
 
 ---
