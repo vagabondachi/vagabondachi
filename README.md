@@ -2,7 +2,8 @@
 <h1>Pearly Bruno</h1>
 <p>Digital Designer and Developer<p>
 </ul>
-<h3 align="center"> My Github Stats 💻</h3>
+
+<h3> My Github Stats 💻</h3>
   <a href="https://github.com/vagabondachi/"><img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"></a>
 
 ---
