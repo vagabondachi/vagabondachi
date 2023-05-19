@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
-<h1> Pearly Bruno </h1>
-<h2> Digital Designer and Developer
+<ul list-style='none'>
+  <li> <b>Pearly Bruno </b></li>
+ <li> Digital Designer and Developer</li>
 
 <h3 align="center"> My Github Stats 💻</h3>
   <a href="https://github.com/vagabondachi/"><img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"></a>
