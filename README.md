@@ -1,3 +1,8 @@
+[![Header]
+<img src="https://imgur.com/AILEtu0" width="30px">
+
+
+
 <h2 align="center">Hello there! I'm Pearly Bruno. 👋</h2>
 <h3 align="center"> Digital Designer and Developer 🚀</h3>
 
