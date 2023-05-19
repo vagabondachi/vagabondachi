@@ -3,6 +3,13 @@
 <h3 style="line-height:"1%";"> Digital Designer and Developer </h3>
 <h4 style="line-height:"1%";"> Angeles City, Pampanga 🇵🇭 </h4>
 
+<p align='right'>
+<a href="https://www.youtube.com/channel/UCUYwaC6LPY9Kdmjsa6TQB_Q"><img height="30" src="https://i.imgur.com/hyjqmzP.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/vagabondachi"><img height="30" src="https://i.imgur.com/OeR11XM.png"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/vagabondachi"><img height="30" src="https://i.imgur.com/llk4ThJ.png"></a>&nbsp;&nbsp;  
+<a href="https://instagram.com/vagabondachi"><img height="30" src="https://i.imgur.com/3MKjfSX.png"></a>&nbsp;&nbsp;
+</p>
+
 &nbsp;
 <h2> My Github Stats 💻</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"width='50%'  align='left'>
