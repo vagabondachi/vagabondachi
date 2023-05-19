@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
-<p style={font-size="40rem"}>Pearly Bruno</p>
+<p style={size="40rem"}>Pearly Bruno</p>
 <p>Digital Designer and Developer<p>
 
 ---
