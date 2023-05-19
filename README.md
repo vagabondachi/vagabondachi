@@ -9,20 +9,13 @@
 <h3 style="line-height:"1%";"> Digital Designer and Developer </h3>
 <h4 style="line-height:"1%";"> Angeles City, Pampanga 🇵🇭 </h4>
 
-
-
 &nbsp;
-<h2> My Github Stats 💻</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"width='50%'  align='left'>
+
+## Git Status 🥇
+
+<img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true" width='50%' align='left'>
 <img src="https://streak-stats.demolab.com/?user=vagabondachi&theme=dracula" width='50%' align='left'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagabondachi&layout=compact&theme=dracula" width='50%'>
-
-<p align="center"> 
-  <a href="https://www.facebook.com/pearlybruno"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
-  <a href="https://nielcabs.github.io/junielcabo"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>&nbsp;
-  <a href="https://nielcabs.github.io/junielcabo"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>&nbsp;
-  <a href="https://nielcabs.github.io/junielcabo"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>  
-</p>
 
 ---
 
