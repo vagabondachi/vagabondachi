@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/AILEtu0.png" width="15%">
+<img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
 
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
