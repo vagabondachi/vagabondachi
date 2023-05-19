@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/AILEtu0.png" width="15%">
 <h2>Pearly Bruno. 👋</h2>
-<h3> Digital Designer and Developer 🚀</h3>
-
+<ul>
+  <li> Digital Designer and Developer </li>
 ---
 
 <h3 align="center"> My Github Stats 💻</h3>
