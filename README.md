@@ -1,7 +1,7 @@
 
-    <img src="https://i.imgur.com/AILEtu0.png" width="15%">
-
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+ 
+# [![waylon walker header]
+  <img src="https://i.imgur.com/AILEtu0.png" width="15%">
 
 <p>
   <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
