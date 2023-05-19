@@ -1,12 +1,9 @@
 <h2 align="center">Hello there! I'm Pearly Bruno. 👋</h2>
-<p align="center">
-  <img src="https://i.pinimg.com/originals/68/8a/7b/688a7bcf20bddb073ab6ef8a96f3a691.gif" width="40">
-</p>
+
 
 <h3 align="center"> Digital Designer and Developer 🚀</h3>
 
 ---
-
 
 <h3 align="center"> My Github Stats 💻</h3>
 <p align="center">
