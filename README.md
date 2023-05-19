@@ -24,15 +24,26 @@
 <h3 align="center"> Technologies & Tools 💻 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NEXT.JS-333333?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;
+  <h5>Front end Development</h5>
   <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/REACT JS-lightblue?style=for-the-badge&logo=react&logoColor=black"/>&nbsp;
+  <h5>Front end Development</h5>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <h5>Front end Development</h5>
+  
+  <img src="https://img.shields.io/badge/NEXT.JS-333333?style=for-the-badge&logo=next.js&logoColor=white"/>&nbsp;
+  
+ 
   <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/SASS-cc6699?style=for-the-badge&logo=SASS&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.JS-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/Express-333333?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 </p>
 
 &nbsp;
