@@ -1,9 +1,10 @@
-<img src="https://i.imgur.com/T0bDOob.png" width="20%" align='left'>
-<p align='right'><h1 style="border-bottom: none; text-decoration:none;"> PEARLY BRUNO </h1>
-<a href="https://www.youtube.com/channel/UCUYwaC6LPY9Kdmjsa6TQB_Q"><img height="20" src="https://i.imgur.com/hyjqmzP.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/vagabondachi"><img height="20" src="https://i.imgur.com/OeR11XM.png"></a>&nbsp;&nbsp;
-<a href="https://facebook.com/vagabondachi"><img height="20" src="https://i.imgur.com/llk4ThJ.png"></a>&nbsp;&nbsp;  
-<a href="https://instagram.com/vagabondachi"><img height="20" src="https://i.imgur.com/3MKjfSX.png"></a>&nbsp;&nbsp;
+<img src="https://i.imgur.com/T0bDOob.png" width="25%" align='left'>
+<p align='right'>
+  <h1> PEARLY BRUNO </h1>
+  <a href="https://www.youtube.com/channel/UCUYwaC6LPY9Kdmjsa6TQB_Q"><img height="20" src="https://i.imgur.com/hyjqmzP.png"></a>&nbsp;&nbsp;
+  <a href="https://twitter.com/vagabondachi"><img height="20" src="https://i.imgur.com/OeR11XM.png"></a>&nbsp;&nbsp;
+  <a href="https://facebook.com/vagabondachi"><img height="20" src="https://i.imgur.com/llk4ThJ.png"></a>&nbsp;&nbsp;  
+  <a href="https://instagram.com/vagabondachi"><img height="20" src="https://i.imgur.com/3MKjfSX.png"></a>&nbsp;&nbsp;
 </p>
 <h3 style="line-height:"1%";"> Digital Designer and Developer </h3>
 <h4 style="line-height:"1%";"> Angeles City, Pampanga 🇵🇭 </h4>
