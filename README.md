@@ -1,11 +1,9 @@
-<div id="header">
-  <img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
-  <h1 text-decoration= "none"> **Pearly Bruno**</h1>
-<p>Digital Designer and Developer<p>
-</div>
 
----
+<img src="https://i.imgur.com/T0bDOob.png" width="15%" align='left'>
+  <h1 style="border-bottom: none;"> PEARLY BRUNO </h1>
+  <h2 style="border-bottom: none;"> Digital Designer and Developer <h2>
 
+&nbsp;
 <h2> My Github Stats 💻</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"width='50%'  align='left'>
 <img src="https://streak-stats.demolab.com/?user=vagabondachi&theme=dracula" width='50%' align='left'>
