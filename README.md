@@ -1,7 +1,8 @@
 
-<img src="https://i.imgur.com/T0bDOob.png" width="15%" align='left'>
-  <h1 style="border-bottom: none;"> PEARLY BRUNO </h1>
-  <h2 style="border-bottom: none;"> Digital Designer and Developer </h2>
+<img src="https://i.imgur.com/T0bDOob.png" width="17%" align='left'>
+<h1 style="border-bottom: none; text-decoration:none;"> PEARLY BRUNO </h1>
+<h3 style="line-height:"1%";"> Digital Designer and Developer </h3>
+<h4 style="line-height:"1%";"> Angeles City, Pampanga </h4>
 
 &nbsp;
 <h2> My Github Stats 💻</h2>
@@ -43,17 +44,3 @@
 ## Stargazers
 
 [![Stargazers repo roster for @vagabondachi/vagabondachi.git](https://reporoster.com/stars/vagabondachi/vagabondachi.git)](https://github.com/vagabondachi/vagabondachi.git/stargazers)
-<!--
-**vagabondachi/vagabondachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
