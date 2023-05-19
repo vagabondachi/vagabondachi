@@ -1,7 +1,7 @@
-<img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
+<header><img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
 <p style={size="40rem"}>Pearly Bruno</p>
 <p>Digital Designer and Developer<p>
-
+</header>
 ---
 
 <h2> My Github Stats 💻</h2>
