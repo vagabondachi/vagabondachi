@@ -1,4 +1,5 @@
-<a href="https://imgur.com/AILEtu0"><img src="https://i.imgur.com/AILEtu0.png" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/AILEtu0.png" width="30px">
+
 
 
 
