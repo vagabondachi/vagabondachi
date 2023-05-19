@@ -1,5 +1,5 @@
 <header><img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
-<p style={size="40rem"}>Pearly Bruno</p>
+<h1>Pearly Bruno</h1>
 <p>Digital Designer and Developer<p>
 </header>
 ---
