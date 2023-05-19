@@ -7,9 +7,19 @@
 
 ---
 
+
+<h3 align="center"> My Github Stats 💻</h3>
+<p align="center">
+  <a href="https://github.com/vagabondachi/"><img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"></a>
+</p>
+
+---
+
 <p align="center"> 
   <a href="https://www.facebook.com/pearlybruno"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
-  <a href="https://nielcabs.github.io/junielcabo"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
+  <a href="https://nielcabs.github.io/junielcabo"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>&nbsp;
+  <a href="https://nielcabs.github.io/junielcabo"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>&nbsp;
+  <a href="https://nielcabs.github.io/junielcabo"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>  
 </p>
 
 ---
@@ -37,12 +47,6 @@
   </a>
 </p>
 
----
-
-<h3 align="center"> My Github Stats 💻</h3>
-<p align="center">
-  <a href="https://github.com/vagabondachi/"><img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"></a>
-</p>
 
 ---
 
