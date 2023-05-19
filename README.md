@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2 align="center">Hello there! My name is Pearly Bruno. 👋</h2>
 <p align="center">
   <img src="https://i.pinimg.com/originals/68/8a/7b/688a7bcf20bddb073ab6ef8a96f3a691.gif" width="40">
@@ -42,9 +40,9 @@
 
 ---
 
-<h3 align="center">💻 My Github Stats 💻</h3>
+<h3 align="center"> My Github Stats 💻</h3>
 <p align="center">
-  <a href="https://github.com/vagabondachi/"><img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=synthwave&count_private=true"></a>
+  <a href="https://github.com/vagabondachi/"><img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"></a>
 </p>
 
 ---
