@@ -1,4 +1,3 @@
-[![Header]
 <img src="https://imgur.com/AILEtu0" width="30px">
 
 
