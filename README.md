@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! My name is Pearly Bruno. 👋</h2>
+<h2 align="center">Hello there! I'm Pearly Bruno. 👋</h2>
 <p align="center">
   <img src="https://i.pinimg.com/originals/68/8a/7b/688a7bcf20bddb073ab6ef8a96f3a691.gif" width="40">
 </p>
@@ -8,8 +8,7 @@
 ---
 
 <p align="center"> 
-  <a href="https://www.facebook.com/nielcabo06"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
-  <a href="https://www.github.com/nielcabs"><img src="https://img.shields.io/badge/Github-f5f5f5?style=for-the-badge&logo=Github&logoColor=black"></a>&nbsp;
+  <a href="https://www.facebook.com/pearlybruno"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
   <a href="https://nielcabs.github.io/junielcabo"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 </p>
 
