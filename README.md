@@ -1,14 +1,10 @@
 <h2 align="center">Hello there! I'm Pearly Bruno. 👋</h2>
-
-
 <h3 align="center"> Digital Designer and Developer 🚀</h3>
 
 ---
 
 <h3 align="center"> My Github Stats 💻</h3>
-<p align="center">
   <a href="https://github.com/vagabondachi/"><img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"></a>
-</p>
 
 ---
 
