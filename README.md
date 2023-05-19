@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
 <ul list-style='none'>
-  <li text-transform='uppercase'> <b>Pearly Bruno </b></li>
+  <li text-transform='uppercase'> <b>## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**Pearly Bruno </b></li>
   <li> Digital Designer and Developer</li>
 </ul>
 <h3 align="center"> My Github Stats 💻</h3>
