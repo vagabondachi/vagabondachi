@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<h2 align="center">Hello there! My name is Nielcabs. 👋🤓</h2>
+<h2 align="center">Hello there! My name is Pearly Bruno. 👋</h2>
 <p align="center">
   <img src="https://i.pinimg.com/originals/68/8a/7b/688a7bcf20bddb073ab6ef8a96f3a691.gif" width="40">
 </p>
 
-<h3 align="center">🚀 Full Stack Developer | Web Developer 🚀</h3>
+<h3 align="center"> Digital Designer and Developer 🚀</h3>
 
 ---
 
@@ -44,14 +44,14 @@
 
 <h3 align="center">💻 My Github Stats 💻</h3>
 <p align="center">
-  <a href="https://github.com/nielcabs/"><img src="https://github-readme-stats.vercel.app/api?username=nielcabs&theme=synthwave&count_private=true"></a>
+  <a href="https://github.com/vagabondachi/"><img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=synthwave&count_private=true"></a>
 </p>
 
 ---
 
-<h3 align="center">🤝🏻 Connect with Me 🤝🏻</h3>
+<h3 align="center"> Connect with Me 🤝🏻</h3>
 <p align="center">
-<a href="https://nielcabs.github.io/junielcabo"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
+<a href="https://pearlybruno.com"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 <a href="https://www.buymeacoffee.com/nielcabs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30"></a>
 </p>
 
