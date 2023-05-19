@@ -29,7 +29,7 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
  ---
 
 <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
+<img src="https://i.imgur.com/AILEtu0.png" width="15%">
 </p>
 
 <p>
