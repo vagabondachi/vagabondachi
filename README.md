@@ -41,4 +41,4 @@
 
 ---
 ## Stargazers
-[![Stargazers repo roster for @vagabondachi/vagabondachi.git](https://reporoster.com/stars/vagabondachi/vagabondachi.git)](https://github.com/vagabondachi/vagabondachi.git/stargazers)
+[![Stargazers repo roster for @vagabondachi/vagabondachi](https://reporoster.com/stars/vagabondachi/vagabondachi)](https://github.com/vagabondachi/vagabondachi/stargazers)
