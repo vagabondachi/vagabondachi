@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/AILEtu0.png" width="30px">
+<img src="https://i.imgur.com/AILEtu0.png" width="30px" border="10px solid black">
 
 
 
