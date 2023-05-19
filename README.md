@@ -1,13 +1,15 @@
-<header><img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
-<h1>Pearly Bruno</h1>
+<div id="header">
+  <img src="https://i.imgur.com/AILEtu0.png" width="15%" align='left'>
+  <h1 text-decoration= "none"> **Pearly Bruno**</h1>
 <p>Digital Designer and Developer<p>
-</header>
+</div>
+
 ---
 
 <h2> My Github Stats 💻</h2>
-  <a href="https://github.com/vagabondachi/"><img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"></a>
-
----
+<img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true"width='50%'  align='left'>
+<img src="https://streak-stats.demolab.com/?user=vagabondachi&theme=dracula" width='50%' align='left'>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagabondachi&layout=compact&theme=dracula" width='50%'>
 
 <p align="center"> 
   <a href="https://www.facebook.com/pearlybruno"><img src="https://img.shields.io/badge/Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white"></a>&nbsp;
@@ -32,17 +34,6 @@
   <img src="https://img.shields.io/badge/php-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
----
-
-<h3 align="center">🔥 My Contribution Streak 🔥</h3>
-<p align="center">
-  <a href="https://github.com/nielcabs/">
-    <img src="https://user-badge.committers.top/philippines/nielcabs.svg">
-  </a>
-</p>
-
-
----
 
 <h3 align="center"> Connect with Me 🤝🏻</h3>
 <p align="center">
