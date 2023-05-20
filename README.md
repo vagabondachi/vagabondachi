@@ -12,6 +12,15 @@
 
 &nbsp;
 
+**Me in a Nutshell 🥥**
+
+- 🔭 I’m currently working on **3D Modelling, and Game Programming**
+- 🌱 I’m currently learning **Unreal Engine, and C++**
+- 👯 I’m looking to collaborate on **Game Projects, Website and Mobile E-commerce Development**
+- 💬 Ask me about **UX Design, Brand Identity, Game Development, Cosplay Costume Making**
+
+&nbsp;
+
 ## Git Status 🥇
 
 <img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true" width='50%' align='left'>
