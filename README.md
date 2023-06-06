@@ -23,8 +23,6 @@
 
 ## Git Status 🥇
 
-<img src="https://github-readme-stats.vercel.app/api?username=vagabondachi&theme=dracula&count_private=true" width='50%' align='left'>
-<img src="https://streak-stats.demolab.com/?user=vagabondachi&theme=dracula" width='50%' align='left'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagabondachi&layout=compact&theme=dracula" width='50%'>
 
 &nbsp;
