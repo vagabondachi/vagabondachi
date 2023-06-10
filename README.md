@@ -6,7 +6,7 @@
   <a href="https://facebook.com/vagabondachi" target="_blank"><img height="20" src="https://i.imgur.com/bXlM0dp.png"></a>&nbsp;&nbsp;  
   <a href="https://instagram.com/vagabondachi" target="_blank"><img height="20" src="https://i.imgur.com/gK3OiCC.png"></a>&nbsp;&nbsp;
 </p>
-<h3 style="line-height:"1%";"> Digital Designer & Game Developer </h3>
+<h3 style="line-height:"1%";"> Digital Designer and Developer </h3>
 <h4 style="line-height:"1%";"> Angeles City, Pampanga 🇵🇭 </h4>
 <a href="https://pearlybruno.com" target="_blank"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 
