@@ -21,7 +21,7 @@
 
 &nbsp;
 
-## Git Status 🥇
+## Languages I use 🥇
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagabondachi&layout=compact&theme=dracula" width='50%'>
 
