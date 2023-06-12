@@ -77,6 +77,17 @@
 
 &nbsp;
 
+<details>
+  <br />
+  <summary>⚙️ <b> Things I use to get stuff done</b></summary>
+  	<ul>
+  	   <li><b>OS:</b> Windows 10 </li>
+	     <li><b>Desktop Spec: </b> NVIDIA GeForce RTX 2060 (i5-7400)</li>
+	     <li><b>Code Editor:</b> VSCode </li>
+	     <li><b>To Stay Updated:</b> Linkedin </li>
+	    <br />
+	</ul>
+</details>
 ---
 
 <h3 align="center"> Send me some LOVE 💛</h3>
