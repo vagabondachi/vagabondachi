@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **3D Modelling, animation, and Game Programming**
 - 🌱 I’m currently learning **Unreal Engine, and C++**
-- 👯 I’m looking to collaborate on **Game Projects, Website and Mobile E-commerce Development**
+- 👯 I’m looking to collaborate on **Game Projects, Website and Mobile E-commerce Development, business ideas**
 - 💬 Ask me about **UX Design, Brand Identity, Game Development, Cosplay Costume Making**
 
 &nbsp;
