@@ -21,12 +21,6 @@
 
 &nbsp;
 
-## Git Stats 🥇
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vagabondachi&layout=compact&theme=dracula" width='50%'>
-
-&nbsp;
-
 ## Technologies and Tools 🧰 💻
 
 <p align="left">
