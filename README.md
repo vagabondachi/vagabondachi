@@ -11,7 +11,6 @@
 <a href="https://pearlybruno.com" target="_blank"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
 
 &nbsp;
-
 **Me in a Nutshell 🥥**
 
 - 🔭 I’m currently working on **3D Modelling, animation, and Game Programming**
