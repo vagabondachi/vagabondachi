@@ -8,6 +8,7 @@
 </p>
 
 
+
 <h3 style="line-height:"1%";"> Digital Designer and Developer ^ cosplayer & gamer </h3>
 <h4 style="line-height:"1%";"> Angeles City, Pampanga 🇵🇭 </h4>
 <a href="https://pearlybruno.com" target="_blank"><img src="https://img.shields.io/badge/Visit my Portfolio-333333?style=for-the-badge&logo=&logoColor=white"></a>
