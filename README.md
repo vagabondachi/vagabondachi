@@ -9,7 +9,6 @@
 </p>
 
 
- 
 
 <h3 style="line-height:"1%";"> Digital Designer and Developer ^ cosplayer & gamer </h3>
 <h4 style="line-height:"1%";"> Angeles City, Pampanga 🇵🇭 </h4>
