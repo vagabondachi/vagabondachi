@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/T0bDOob.png" width="25%" align='left'>
 <p align='right'>
-  <h1> PotatoData </h1>
+  <h1> Achi </h1>
 
 
 
